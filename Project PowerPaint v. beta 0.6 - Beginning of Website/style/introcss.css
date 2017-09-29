@@ -1,0 +1,11 @@
+body {
+	background-color: #8cf2ff;
+	color: #007684;
+	padding: 10px;
+	margin: 0;
+}
+
+.subtitles, header h1{
+	color: #006573;
+}
+
